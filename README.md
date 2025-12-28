@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ##### My Github Stats
-![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rezaparamarta)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=rezaparamarta&show_icons=true&theme=radical)
 
 
 
