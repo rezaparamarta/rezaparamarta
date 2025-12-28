@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World! I'm Reza Paramarta 👋
+![Reza Paramarta](img/BugsBusters_1.jpg)
 
 <!--
 **rezaparamarta/rezaparamarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on build portfolio QA engineering
+- 🌱 I’m currently learning Javascript, Cypress, Appium, Katalon, K6, JMeter, RObotFramework, Node, MongoDB, CI/CD, Git, and GitHub
+- 🤔 I’m looking for QA Engineer job remote or onsite
+- 📫 How to reach me: rparamarta7@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a huge fan of Oasis, Peaky Blinders, and The Beatles
