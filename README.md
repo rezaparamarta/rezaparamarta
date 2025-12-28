@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 
 ##### Connect with me:
 ![https://www.linkedin.com/in/rp-reza-paramarta-noeisvocal/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+##### My Github Stats
+[![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezaparamarta&show_icons=true)](https://github.com/rezaparamarta)
+
+
