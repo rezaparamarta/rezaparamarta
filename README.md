@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on build portfolio QA engineering
-- 🌱 I’m currently learning Javascript, Cypress, Appium, Katalon, K6, JMeter, SQL, RobotFramework, Node, MongoDB, CI/CD, Git, and GitHub
+- 🔭 I’m currently working at PT. PNM Invesment Management
+- 🌱 I’m currently use these tools: Katalon Studio, Postman, Newman, Qase.io, Jira, Java, Javascript, SQL, Cyress, Playwright, Appium, Robot Framework, Jmeter, K6 and Github/Gitlab CICD.
 - 🤔 I’m looking for QA Engineer job remote or onsite
 - 📫 How to reach me: rparamarta7@gmail.com
 - 😄 Pronouns: He/Him
